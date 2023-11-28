@@ -1,0 +1,2 @@
+# ignore firefox profile files under .config/firefox
+.config/firefox/**
